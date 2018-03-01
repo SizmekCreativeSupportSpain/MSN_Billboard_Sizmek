@@ -21,7 +21,7 @@ define(
   "variables": [
     {
       "key": "mdAdaptiveBreakpoints",
-      "value": "628x162,950x250,1272x328"
+      "value": "628x162,950x250"
      },
     {
       "key": "mdAlignment",
@@ -61,11 +61,11 @@ define(
      },
     {
       "key": "mdMaximumHeight",
-      "value": "328"
+      "value": "250"
     },
         {
       "key": "mdMaximumWidth",
-      "value": "1272"
+      "value": "950"
     },
     {
       "key": "mdMinimumHeight",
